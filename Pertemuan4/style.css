@@ -1,0 +1,22 @@
+/* *{
+    background-color: blanchedalmond;
+} */
+
+button{
+    padding: 20px;
+    background-color: palevioletred;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: deeppink;
+}
+
+body{
+    background-image: url(/ariel.jpeg);
+    background-size: cover;
+    /* background-position: center;
+    background-repeat: no-repeat; */
+
+}
